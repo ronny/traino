@@ -1,0 +1,123 @@
+{
+  "name": "traino",
+  "author": "Ronny Haryanto",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "Traino",
+    "uuid": "33291a81-0742-4fe3-bd1b-1eaa7fbd4826",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "messageKeys": [
+    ],
+    "resources": {
+      "media": [
+        {
+          "type": "bitmap",
+          "name": "IMAGE_SUNRISE",
+          "file": "sunrise.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_BOWL_OF_FOOD",
+          "file": "bowl-of-food.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_TOOTHBRUSH",
+          "file": "toothbrush.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_SHIRT",
+          "file": "shirt.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_SOCK",
+          "file": "sock.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_LETTER_BLOCKS",
+          "file": "letter-blocks.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_SLIDE",
+          "file": "slide.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_HOME",
+          "file": "home.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_BURGER",
+          "file": "burger.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_CAR",
+          "file": "car.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_MUSIC_NOTE",
+          "file": "music-note.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_HEADPHONE",
+          "file": "headphone.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_BOOK",
+          "file": "book.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_FOOD_PLATE",
+          "file": "food-plate.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_BATH_TUB",
+          "file": "bath-tub.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_PYJAMAS",
+          "file": "pyjamas.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_MILK_CARTON",
+          "file": "milk-carton.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_BED",
+          "file": "bed.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_LEAF",
+          "file": "leaf.png"
+        }
+      ]
+    }
+  }
+}
